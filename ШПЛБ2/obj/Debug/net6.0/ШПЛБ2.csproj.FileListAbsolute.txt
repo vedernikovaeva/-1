@@ -1,0 +1,15 @@
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/bin/Debug/net6.0/ШПЛБ2
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/bin/Debug/net6.0/ШПЛБ2.deps.json
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/bin/Debug/net6.0/ШПЛБ2.runtimeconfig.json
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/bin/Debug/net6.0/ШПЛБ2.dll
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/bin/Debug/net6.0/ШПЛБ2.pdb
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.csproj.AssemblyReference.cache
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.AssemblyInfoInputs.cache
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.AssemblyInfo.cs
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.csproj.CoreCompileInputs.cache
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.dll
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/refint/ШПЛБ2.dll
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.pdb
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ШПЛБ2.genruntimeconfig.cache
+/Users/evavedernikova/Projects/ШПЛБ2/ШПЛБ2/obj/Debug/net6.0/ref/ШПЛБ2.dll
